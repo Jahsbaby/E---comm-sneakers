@@ -1,7 +1,5 @@
 # Frontend Mentor - E-commerce product page
 
-![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -34,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Demo](https://url-shortener-o.netlify.app/)
+- Live Site URL: [Live Demo]()
 
 ## My process
 
@@ -43,14 +41,3 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - React.js
-
-
-
-
-
-## Author
-- Frontend Mentor - [@Master-Osaro](https://www.frontendmentor.io/profile/Master-Osaro)
-- Twitter - [@iyoha_osaro](https://twitter.com/iyoha_osaro)
-- Github - [@Master-Osaro](https://github.com/Master-Osaro/)
-
-**Had fun building!** 🚀
